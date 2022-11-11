@@ -1,4 +1,7 @@
 ## mxa-tech-interview
+See Google Cloud Run in action! 
+https://tech-interview-krrqfzikna-no.a.run.app/vehicles/byColor/YELLOW
+
 This repo contains a basic NestJS app to be used as base for our tech interview. Details about what is (and what is not) expected, delivery and more can be found on [this site](https://alpine-pig-c18.notion.site/mxa-tech-interview-91da450d829b45cdaf5f4d1b7d06f34b).
 
 ### Getting started
